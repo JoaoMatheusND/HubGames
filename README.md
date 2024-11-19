@@ -1,6 +1,6 @@
 # HubGames
 
 
-Repositório dedicado ao desenvolvimento do projeto da materia de Engenharia de software pela Universidade Federal de Alagoas UFAL.
+Repositório dedicado a estudo de linguagens de alto nível
 
 Possiceis jogos a serem desenvolvidos: snake4 games, arcanoid, space invaders, Flappy Bird.
